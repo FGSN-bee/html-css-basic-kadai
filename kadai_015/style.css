@@ -1,10 +1,13 @@
 /* style.css */
+html {
+  font-size: 20px;
+}
+
 body {
   font-family: "Arial", "Meiryo", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-  font-size: 20px;
   text-align: center;
   background-color: white;
   color: black;
